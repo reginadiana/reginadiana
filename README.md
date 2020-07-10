@@ -2,6 +2,10 @@
 
 <p align="center">
 :star: <strong>Olá, meu nome é Diana Regina</strong> :star:
+  
+[Linkedin](https://www.linkedin.com/in/diana-regina-a96840173/) :small_blue_diamond: [Portifólio](https://dianaregina.netlify.app/) :small_blue_diamond:
+
+<hr>
 
 <em>
 
