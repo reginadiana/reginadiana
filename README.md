@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/46378210/87106214-4a117480-c233-11ea-9956-633d796947f0.png" width="400"/>
 
 <p align="center">
-<h2 align="center">Olá, meu nome é Diana Regina</h2> 
+<h2 align="center">Olá, meu nome é Diana</h2> 
   
 
 <p align="center">
