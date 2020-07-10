@@ -9,7 +9,7 @@
   <a href="https://dianaregina.netlify.app/">Portifólio</a>&nbsp;&nbsp;&nbsp;:computer:&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@dianareginadr19">Medium</a>&nbsp;&nbsp;&nbsp;:books:&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/dianaops">Artigos no Dev</a>&nbsp;&nbsp;&nbsp;:tv:&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=2A_ebBA3jzM&t=3951s">Live sobre README</a>&nbsp;&nbsp;&nbsp;:hearts:&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=2A_ebBA3jzM&t=3951s">Minha live sobre README</a>&nbsp;&nbsp;&nbsp;:hearts:&nbsp;&nbsp;&nbsp;
 </p>
 
 </p>
