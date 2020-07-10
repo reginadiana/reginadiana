@@ -16,9 +16,11 @@
 
 <hr>
 
-<em>
+<em align="justify">
 
-Sou formada em Mecatrônica Industrial pela FATEC Santo André, participei do [**Bootcamp de React da WoMakersCode**](https://github.com/reginadiana/womakerscode-react) e do [**Treina Dev da Campus Code**](https://github.com/reginadiana/treina-dev-turma-3).Desenvolvo meus projetos com React e Ruby on Rails, buscando ao máximo utilizar as boas práticas de programação, ter boas ideias e contribuir com a comunidade.
+Sou formada em Mecatrônica Industrial pela FATEC Santo André, participei do [**Bootcamp de React da WoMakersCode**](https://github.com/reginadiana/womakerscode-react) e do [**Treina Dev da Campus Code**](https://github.com/reginadiana/treina-dev-turma-3).
+<br><br>
+Desenvolvo meus projetos com React e Ruby on Rails, buscando ao máximo utilizar as boas práticas de programação, ter boas ideias e contribuir com a comunidade.
 
 </em>
 
