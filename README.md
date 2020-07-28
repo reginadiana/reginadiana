@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/46378210/87106214-4a117480-c233-11ea-9956-633d796947f0.png" width="400"/>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/46378210/88606320-c0471100-d052-11ea-867a-3f77d6b81e01.jpeg" width="400"/>
+</p>
 
 <p align="center">
 <h2 align="center">Olá, meu nome é Diana</h2> 
@@ -23,7 +25,3 @@ Sou formada em Mecatrônica Industrial pela FATEC Santo André, participei do [*
 Desenvolvo meus projetos com React e Ruby on Rails, buscando ao máximo utilizar as boas práticas de programação, ter boas ideias e contribuir com a comunidade.
 
 </em>
-
-<p align="right">
-<img src="https://user-images.githubusercontent.com/46378210/88606320-c0471100-d052-11ea-867a-3f77d6b81e01.jpeg" width="400"/>
-</p>
