@@ -25,5 +25,5 @@ Desenvolvo meus projetos com React e Ruby on Rails, buscando ao máximo utilizar
 </em>
 
 <p align="right">
-<img src="https://user-images.githubusercontent.com/46378210/87106217-4b42a180-c233-11ea-855c-5332d1651e3a.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/46378210/88606320-c0471100-d052-11ea-867a-3f77d6b81e01.jpeg" width="400"/>
 </p>
