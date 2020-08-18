@@ -10,6 +10,10 @@
   <a href="https://www.youtube.com/watch?v=2A_ebBA3jzM&t=3951s">Minha live sobre README</a>&nbsp;&nbsp;&nbsp;:hearts:&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="center">
+  <a href="https://www.instagram.com/encantosfazenda/?hl=pt-br">O que faço quando não estou programando</a>&nbsp;&nbsp;&nbsp;:hearts:&nbsp;&nbsp;&nbsp;
+</p>
+
 </p>
 
 <hr>
