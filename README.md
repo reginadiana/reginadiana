@@ -25,3 +25,7 @@ Sou formada em Mecatrônica Industrial pela FATEC Santo André, participei do [*
 Desenvolvo meus projetos com React e Ruby on Rails, buscando ao máximo utilizar as boas práticas de programação, ter boas ideias e contribuir com a comunidade.
 
 </em>
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=reginadiana)
+
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@dianareginadr19)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diana-regina-a96840173/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/encantosfazenda/?hl=pt-br)
