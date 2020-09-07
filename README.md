@@ -1,5 +1,10 @@
 ![Screenshot_2020-09-07 Apresentação sem título - Apresentações Google](https://user-images.githubusercontent.com/46378210/92345056-7106ee00-f09e-11ea-8ea1-0c26b1dfc73b.png)
 
+![Screenshot_2020-09-07 Apresentação sem título - Apresentações Google(1)](https://user-images.githubusercontent.com/46378210/92345616-6b120c80-f0a0-11ea-88f9-92fe9555b81b.png)
+![Screenshot_2020-09-07 Apresentação sem título - Apresentações Google(2)](https://user-images.githubusercontent.com/46378210/92345620-7107ed80-f0a0-11ea-823f-9f6a2956762b.png)
+![Screenshot_2020-09-07 Apresentação sem título - Apresentações Google(3)](https://user-images.githubusercontent.com/46378210/92345626-749b7480-f0a0-11ea-8c24-92882f26199c.png)
+
+
 <p align="center">
 <h2 align="center">Olá, meu nome é Diana</h2> 
   
@@ -17,16 +22,6 @@
 </p>
 
 </p>
-
-<hr>
-
-<em align="justify">
-
-Sou formada em Mecatrônica Industrial pela FATEC Santo André, participei do [**Bootcamp de React da WoMakersCode**](https://github.com/reginadiana/womakerscode-react) e do [**Treina Dev da Campus Code**](https://github.com/reginadiana/treina-dev-turma-3).
-<br><br>
-Desenvolvo meus projetos com React e Ruby on Rails, buscando ao máximo utilizar as boas práticas de programação, ter boas ideias e contribuir com a comunidade.
-
-</em>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=reginadiana)
 
