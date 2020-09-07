@@ -17,9 +17,8 @@
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/46378210/92420132-0e6a2c80-f148-11ea-887d-36f783cec7f6.png" width=600/>
+<img src="https://github-readme-stats.vercel.app/api?username=reginadiana"/>
 </p>
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=reginadiana)
 
 ![Screenshot_2020-09-07 Apresentação sem título - Apresentações Google(7)](https://user-images.githubusercontent.com/46378210/92347410-65b7c080-f0a6-11ea-81c5-5ca5cb0c903f.png)
 
