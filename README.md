@@ -32,12 +32,11 @@
 <a href="https://dianaregina.netlify.app/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRd1U6GlJJco5yndqtExm6XQTxygVJcpqENAQ&usqp=CAU/" width="100"></a>
 </p>
 
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRd1U6GlJJco5yndqtExm6XQTxygVJcpqENAQ&usqp=CAU/" width=100>](https://dianaregina.netlify.app/)
-
 <hr/>
 
 <p align="center">
-
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@dianareginadr19)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diana-regina-a96840173/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/encantosfazenda/?hl=pt-br) [<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qHpQ3g-2--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://p78.f0.n0.cdn.getcloudapp.com/items/z8uw8ABZ/Image%2B2019-10-15%2Bat%2B12.42.23%2BPM.png%3Fv%3De2dc83e9a2b2156adc38a0e388cca2eb" width=50/>](https://dev.to/reginadiana)
-
+  <a href="https://medium.com/@dianareginadr19"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/diana-regina-a96840173/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/encantosfazenda/?hl=pt-br"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://dev.to/reginadiana"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qHpQ3g-2--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://p78.f0.n0.cdn.getcloudapp.com/items/z8uw8ABZ/Image%2B2019-10-15%2Bat%2B12.42.23%2BPM.png%3Fv%3De2dc83e9a2b2156adc38a0e388cca2eb"/></a>
 </p>
