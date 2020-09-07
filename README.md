@@ -20,6 +20,11 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=reginadiana)
 
 ![Screenshot_2020-09-07 Apresentação sem título - Apresentações Google(7)](https://user-images.githubusercontent.com/46378210/92347410-65b7c080-f0a6-11ea-81c5-5ca5cb0c903f.png)
+
+| ![Screenshot_2020-09-07 WoMakersCode ( womakersgram) • Instagram photos and videos](https://user-images.githubusercontent.com/46378210/92347635-14f49780-f0a7-11ea-9400-37fafe3c6b11.png) | ![image](https://user-images.githubusercontent.com/46378210/92347722-5b49f680-f0a7-11ea-8410-6c354b827e2b.png) | ![image](https://user-images.githubusercontent.com/46378210/92347685-3a81a100-f0a7-11ea-8fad-e56889c69122.png)|
+| :------: | :------: | :------: | 
+| **Live sobre README** | **Artigo sobre Readme** | **Artigo sobre Mindlex** |
+
 ![Screenshot_2020-09-07 Apresentação sem título - Apresentações Google(8)](https://user-images.githubusercontent.com/46378210/92347415-68b2b100-f0a6-11ea-9aac-79ad39256306.png)
 
 
