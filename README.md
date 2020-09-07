@@ -38,5 +38,7 @@
   <a href="https://medium.com/@dianareginadr19"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/diana-regina-a96840173/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/encantosfazenda/?hl=pt-br"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://dev.to/reginadiana"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qHpQ3g-2--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://p78.f0.n0.cdn.getcloudapp.com/items/z8uw8ABZ/Image%2B2019-10-15%2Bat%2B12.42.23%2BPM.png%3Fv%3De2dc83e9a2b2156adc38a0e388cca2eb"/></a>
+<a href="https://dev.to/reginadiana">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Diana Regina 's DEV Profile" height="30" width="30">
+</a>
 </p>
