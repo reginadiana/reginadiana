@@ -2,8 +2,7 @@
 ![1](https://user-images.githubusercontent.com/46378210/93837859-1654c100-fc5e-11ea-8c14-28aaec59a9d5.png)
 ![2](https://user-images.githubusercontent.com/46378210/93837862-1a80de80-fc5e-11ea-927b-e72144f4c97c.png)
 
-
-![Screenshot_2020-09-07 Apresentação sem título - Apresentações Google(3)](https://user-images.githubusercontent.com/46378210/92345626-749b7480-f0a0-11ea-8c24-92882f26199c.png)
+![3](https://user-images.githubusercontent.com/46378210/93838019-a266e880-fc5e-11ea-9f1b-cf58ca06e1e1.png)
 
 |[<img src="https://user-images.githubusercontent.com/46378210/75095204-53928c80-5571-11ea-9638-61e5a0d25f8c.png" width="300"/>](https://github.com/reginadiana/projects-of-selective-process)|[<img src="https://user-images.githubusercontent.com/46378210/78724750-7cde6080-7904-11ea-83b7-b373e0a3e965.png" width="300"/>](https://github.com/reginadiana/treina-dev-turma-3)|
 |------|------|
