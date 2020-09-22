@@ -13,13 +13,13 @@
 
 ![4](https://user-images.githubusercontent.com/46378210/93839017-fa531e80-fc61-11ea-993a-cd8a4e8c79f6.png)
 
-![Screenshot_2020-09-07 Apresentação sem título - Apresentações Google(7)](https://user-images.githubusercontent.com/46378210/92347410-65b7c080-f0a6-11ea-81c5-5ca5cb0c903f.png)
+![5](https://user-images.githubusercontent.com/46378210/93839517-8d408880-fc63-11ea-869a-a86d2464bd61.png)
 
 | [![Screenshot_2020-09-07 WoMakersCode ( womakersgram) • Instagram photos and videos](https://user-images.githubusercontent.com/46378210/92347635-14f49780-f0a7-11ea-9400-37fafe3c6b11.png)](https://www.youtube.com/watch?v=2A_ebBA3jzM&t=32s) | [![image](https://user-images.githubusercontent.com/46378210/92347722-5b49f680-f0a7-11ea-8410-6c354b827e2b.png)](https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509) | [![image](https://user-images.githubusercontent.com/46378210/92347685-3a81a100-f0a7-11ea-8fad-e56889c69122.png)](https://dev.to/reginadiana/como-ler-sinais-cerebrais-com-mindlfex-e-arduino-1o8l)|
 | :------: | :------: | :------: | 
 | **Live sobre README** | **Artigo sobre Readme** | **Artigo sobre Mindlex** |
 
-![Screenshot_2020-09-07 Apresentação sem título - Apresentações Google(8)](https://user-images.githubusercontent.com/46378210/92347415-68b2b100-f0a6-11ea-9aac-79ad39256306.png)
+![6](https://user-images.githubusercontent.com/46378210/93839527-93cf0000-fc63-11ea-9364-605ca4f511f9.png)
 
 <p align="center">
 <a href="https://dianaregina.netlify.app/"><img src="https://user-images.githubusercontent.com/46378210/93837769-cfff6200-fc5d-11ea-8e5a-ebc0489b8e76.png" width="50" alt="Meu site"></a>
