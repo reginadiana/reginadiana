@@ -15,9 +15,11 @@
 
 ![5](https://user-images.githubusercontent.com/46378210/93839517-8d408880-fc63-11ea-869a-a86d2464bd61.png)
 
-| [![Screenshot_2020-09-07 WoMakersCode ( womakersgram) • Instagram photos and videos](https://user-images.githubusercontent.com/46378210/92347635-14f49780-f0a7-11ea-9400-37fafe3c6b11.png)](https://www.youtube.com/watch?v=2A_ebBA3jzM&t=32s) | [![image](https://user-images.githubusercontent.com/46378210/92347722-5b49f680-f0a7-11ea-8410-6c354b827e2b.png)](https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509) | [![image](https://user-images.githubusercontent.com/46378210/92347685-3a81a100-f0a7-11ea-8fad-e56889c69122.png)](https://dev.to/reginadiana/como-ler-sinais-cerebrais-com-mindlfex-e-arduino-1o8l)|
-| :------: | :------: | :------: | 
-| **Live sobre README** | **Artigo sobre Readme** | **Artigo sobre Mindlex** |
+:books: [Live sobre README](https://www.youtube.com/watch?v=2A_ebBA3jzM&t=32s)
+
+:books: [Como escrever um README sensacional no Github](https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509)
+
+:books: [Como ler sinais cerebrais com Mindflex e Arduino](https://dev.to/reginadiana/como-ler-sinais-cerebrais-com-mindlfex-e-arduino-1o8l)
 
 ![6](https://user-images.githubusercontent.com/46378210/93839527-93cf0000-fc63-11ea-9364-605ca4f511f9.png)
 
