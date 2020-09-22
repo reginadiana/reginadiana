@@ -27,8 +27,11 @@
 ![Screenshot_2020-09-07 Apresentação sem título - Apresentações Google(8)](https://user-images.githubusercontent.com/46378210/92347415-68b2b100-f0a6-11ea-9aac-79ad39256306.png)
 
 <p align="center">
-<h2>Meu site</h2>
-<a href="https://dianaregina.netlify.app/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRd1U6GlJJco5yndqtExm6XQTxygVJcpqENAQ&usqp=CAU/" width="50"></a>
+<h3 align="center">Meu site</h3>
+</p>
+
+<p align="center">
+<a href="https://dianaregina.netlify.app/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRd1U6GlJJco5yndqtExm6XQTxygVJcpqENAQ&usqp=CAU/" width="60"></a>
 </p>
 
 <hr/>
