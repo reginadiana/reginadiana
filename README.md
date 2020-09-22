@@ -1,5 +1,3 @@
-![Screenshot_2020-09-07 Apresentação sem título - Apresentações Google](https://user-images.githubusercontent.com/46378210/92345056-7106ee00-f09e-11ea-8ea1-0c26b1dfc73b.png)
-
 ![Screenshot_2020-09-07 Apresentação sem título - Apresentações Google(1)](https://user-images.githubusercontent.com/46378210/92345616-6b120c80-f0a0-11ea-88f9-92fe9555b81b.png)
 ![Screenshot_2020-09-07 Apresentação sem título - Apresentações Google(4)](https://user-images.githubusercontent.com/46378210/92347266-ec1fd280-f0a5-11ea-9f2d-58135aca0fe7.png)
 
