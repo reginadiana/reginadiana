@@ -1,4 +1,19 @@
 
+<p align="center">
+<a href="https://dianaregina.netlify.app/"><img src="https://user-images.githubusercontent.com/46378210/93837769-cfff6200-fc5d-11ea-8e5a-ebc0489b8e76.png" width="50" alt="Meu site"></a>
+</p>
+
+<hr/>
+
+<p align="center">
+  <a href="https://medium.com/@dianareginadr19"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/diana-regina-a96840173/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/encantosfazenda/?hl=pt-br"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://dev.to/reginadiana">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Diana Regina 's DEV Profile" height="30" width="30">
+</a>
+</p>
+
 ![1](https://user-images.githubusercontent.com/46378210/93837859-1654c100-fc5e-11ea-8c14-28aaec59a9d5.png)
 ![2](https://user-images.githubusercontent.com/46378210/93837862-1a80de80-fc5e-11ea-927b-e72144f4c97c.png)
 
@@ -20,20 +35,3 @@
 :books: [Como escrever um README sensacional no Github](https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509)
 
 :books: [Como ler sinais cerebrais com Mindflex e Arduino](https://dev.to/reginadiana/como-ler-sinais-cerebrais-com-mindlfex-e-arduino-1o8l)
-
-![6](https://user-images.githubusercontent.com/46378210/93839527-93cf0000-fc63-11ea-9364-605ca4f511f9.png)
-
-<p align="center">
-<a href="https://dianaregina.netlify.app/"><img src="https://user-images.githubusercontent.com/46378210/93837769-cfff6200-fc5d-11ea-8e5a-ebc0489b8e76.png" width="50" alt="Meu site"></a>
-</p>
-
-<hr/>
-
-<p align="center">
-  <a href="https://medium.com/@dianareginadr19"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/diana-regina-a96840173/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/encantosfazenda/?hl=pt-br"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://dev.to/reginadiana">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Diana Regina 's DEV Profile" height="30" width="30">
-</a>
-</p>
