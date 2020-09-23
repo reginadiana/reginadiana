@@ -3,8 +3,6 @@
 <a href="https://dianaregina.netlify.app/"><img src="https://user-images.githubusercontent.com/46378210/93837769-cfff6200-fc5d-11ea-8e5a-ebc0489b8e76.png" width="50" alt="Meu site"></a>
 </p>
 
-<hr/>
-
 <p align="center">
   <a href="https://medium.com/@dianareginadr19"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/diana-regina-a96840173/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
