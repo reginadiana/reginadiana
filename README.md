@@ -12,9 +12,6 @@
 </a>
 </p>
 
-![1](https://user-images.githubusercontent.com/46378210/93837859-1654c100-fc5e-11ea-8c14-28aaec59a9d5.png)
-![2](https://user-images.githubusercontent.com/46378210/93837862-1a80de80-fc5e-11ea-927b-e72144f4c97c.png)
-
 ![3](https://user-images.githubusercontent.com/46378210/93838019-a266e880-fc5e-11ea-9f1b-cf58ca06e1e1.png)
   
  <p align="center">
