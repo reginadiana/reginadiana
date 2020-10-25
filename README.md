@@ -6,7 +6,6 @@
 <p align="center">
   <a href="https://medium.com/@dianareginadr19"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/diana-regina-a96840173/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/encantosfazenda/?hl=pt-br"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://dev.to/reginadiana">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Diana Regina 's DEV Profile" height="30" width="30">
 </a>
