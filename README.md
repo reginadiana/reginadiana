@@ -23,9 +23,11 @@
 
 ![4](https://user-images.githubusercontent.com/46378210/93839017-fa531e80-fc61-11ea-993a-cd8a4e8c79f6.png)
 
-![5](https://user-images.githubusercontent.com/46378210/93839517-8d408880-fc63-11ea-869a-a86d2464bd61.png)
+<h2 align="center">Artigos e Lives</h1>
 
 :books: [Live sobre README](https://www.youtube.com/watch?v=2A_ebBA3jzM&t=32s)
+
+:books: [TreinaDev – Live de lançamento da 5ª turma](https://www.youtube.com/watch?v=7D_zafaq0RA&t=4351s)
 
 :books: [Como escrever um README sensacional no Github](https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509)
 
