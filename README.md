@@ -9,6 +9,9 @@
 <a href="https://dev.to/reginadiana">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Diana Regina 's DEV Profile" height="30" width="30">
 </a>
+<a href="https://docs.google.com/presentation/d/1UZ3V_zPdVb3LFIzw3nv0P2jfbSsniEWIn-mpM-63QuE/edit#slide=id.g8cec163d92_0_40">
+  Portfólio de Slides/Inspiração para apresentações 
+</a>
 </p>
 
 ![3](https://user-images.githubusercontent.com/46378210/93838019-a266e880-fc5e-11ea-9f1b-cf58ca06e1e1.png)
