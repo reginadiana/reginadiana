@@ -9,7 +9,7 @@
 <a href="https://dev.to/reginadiana">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Diana Regina 's DEV Profile" height="30" width="30">
 </a>
-<a href="https://docs.google.com/presentation/d/1UZ3V_zPdVb3LFIzw3nv0P2jfbSsniEWIn-mpM-63QuE/edit#slide=id.g8cec163d92_0_40">
+<a align="center" href="https://docs.google.com/presentation/d/1UZ3V_zPdVb3LFIzw3nv0P2jfbSsniEWIn-mpM-63QuE/edit#slide=id.g8cec163d92_0_40">
   Portfólio de Slides/Inspiração para apresentações 
 </a>
 </p>
