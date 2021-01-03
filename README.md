@@ -11,8 +11,6 @@
 </a>
 </p>
 
-----------------
-
 ![3](https://user-images.githubusercontent.com/46378210/93838019-a266e880-fc5e-11ea-9f1b-cf58ca06e1e1.png)
   
  <p align="center">
