@@ -3,6 +3,10 @@
 <a href="https://dianaregina.netlify.app/"><img src="https://user-images.githubusercontent.com/46378210/93837769-cfff6200-fc5d-11ea-8e5a-ebc0489b8e76.png" width="50" alt="Meu site"></a>
 </p>
 
+![](https://visitor-badge.laobi.icu/badge?page_id=reginadiana)
+[![Github](https://img.shields.io/github/followers/reginadiana?label=Follow&style=social)](https://github.com/reginadiana)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=reginadiana&theme=dark&show_icons=true)
+
 <p align="left">
   <a href="https://medium.com/@dianareginadr19"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/diana-regina-a96840173/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -39,6 +43,10 @@
   <a href="https://github.com/reginadiana/rocketseat-projects"><strong>RocketSeat :star: </strong></a>
   <a href="https://github.com/reginadiana/womakerscode-react"><strong>Bootcamp WoMakersCode - React :star: </strong></a>
  </p>
+ 
+ ## Linguagens
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginadiana&theme=tokyonight)
  
  | Frontend | Backend | Ferramentas | Eletrônica |
  | :-----: | :-----: | :-----: | :-----: |
