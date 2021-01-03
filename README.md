@@ -4,8 +4,7 @@
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=reginadiana)
-[![Github](https://img.shields.io/github/followers/reginadiana?label=Follow&style=social)](https://github.com/reginadiana)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=reginadiana&theme=dark&show_icons=true)
+[![Github](https://img.shields.io/github/followers/reginadiana?label=Follow)](https://github.com/reginadiana)
 
 <p align="left">
   <a href="https://medium.com/@dianareginadr19"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
@@ -46,7 +45,7 @@
  
  ## Linguagens
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginadiana&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginadiana)
  
  | Frontend | Backend | Ferramentas | Eletrônica |
  | :-----: | :-----: | :-----: | :-----: |
@@ -56,3 +55,5 @@
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="50"/> <h6>React</h6> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW2To8E0k0NeOfRqgWOwPje8tHwNtQOStw2w&usqp=CAU" width="50"/> <h6>Python</h6>| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARwmNpHgG9Hl8b1jrb4tvXRhpIWod15Cu9A&usqp=CAU" width="50"/> <h6>Git/Github/Gitlab/Bitbucket</h6> | |
 | <img src="https://i1.wp.com/blog.logrocket.com/wp-content/uploads/2019/08/accessing-properties-globally-vue-js-prototypes.jpeg?fit=730%2C489&ssl=1" width="50" /> <h6>Vue</h6> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2gUrQkVjUim_GCHblX2XpG1WS9aXpbGCANg&usqp=CAU" width="50"/> <h6>Elixir</h6>| <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" width="50"/> <h6>Docker</h6>| |
 | | <img src="https://miro.medium.com/max/1200/1*THRh4--2uAqVuBM_Iab78A.png" width="50"/> <h6>Phoenix</h6> | |
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=reginadiana&show_icons=true)
