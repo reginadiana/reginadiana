@@ -22,7 +22,7 @@
  
  | Frontend | Backend | Ferramentas | Eletrônica |
  | :-----: | :-----: | :-----: | :-----: |
- | <img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" width="50"/> <h6>HTML</h6> | | | | |
+ | <img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" width="50"/> <h6>HTML</h6> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOvKjLkqqD7JJN9mJYv_1LBBOkd3TPGIgKQ&usqp=CAU" width="50"/> <h6>Ruby</h6>| | | |
  | <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="50"/> <h6>CSS</h6> | | | | |
  | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="50"/> <h6>Javascript</h6>| | | | |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="50"/> <h6>React</h6> | | | | |
