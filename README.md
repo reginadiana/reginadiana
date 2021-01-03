@@ -11,9 +11,19 @@
 </a>
 </p>
 
-![3](https://user-images.githubusercontent.com/46378210/93838019-a266e880-fc5e-11ea-9f1b-cf58ca06e1e1.png)
+<h2 align="left">Projetos</h1>
+
+| Aplicação com deploy | Documentação |
+| :-----: | :-----: |
+| [Lista de filmes](https://list-movies.netlify.app/) | [:blue_book: Abrir](https://github.com/reginadiana/list-movies)|
+| [Lista de produtos Marisa](https://marisa-products.netlify.app/) | [:blue_book: Abrir](https://github.com/reginadiana/lista-com-filtro-marisa)|
+| [E-commerce](https://ecommercexgb.netlify.app/) | [:blue_book: Abrir](https://github.com/reginadiana/xgb)|
+| [Certificates for everyone](https://certificates-for-everyone-womakerscode.netlify.app/) | [:blue_book: Abrir](https://github.com/reginadiana/certificates-for-everyone-netlify)|
+| [Clone Rebase](https://clone-rebase.netlify.app/ ) | [:blue_book: Abrir](https://github.com/reginadiana/clone-rebase-code-is-in-our-core)|
+| [Portfólio](https://dianaregina.netlify.app/) | [:blue_book: Abrir](https://github.com/reginadiana/portfolio)|
+| [Headhunters](https://headhuntersjobs.herokuapp.com/) | [:blue_book: Abrir](https://github.com/reginadiana/plataforma-headhunters-treina-dev)|
   
- <p align="center">
+ <p align="left">
   <a href="https://github.com/reginadiana/projects-of-selective-process"><strong>Processos Seletivos :star: </strong></a>
   <a href="https://github.com/reginadiana/treina-dev-turma-3"><strong>TreinaDev CampusCode :star: </strong></a>
   <a href="https://github.com/reginadiana/rocketseat-projects"><strong>RocketSeat :star: </strong></a>
@@ -29,7 +39,7 @@
 | <img src="https://i1.wp.com/blog.logrocket.com/wp-content/uploads/2019/08/accessing-properties-globally-vue-js-prototypes.jpeg?fit=730%2C489&ssl=1" width="50" /> <h6>Vue</h6> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2gUrQkVjUim_GCHblX2XpG1WS9aXpbGCANg&usqp=CAU" width="50"/> <h6>Elixir</h6>| <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" width="50"/> <h6>Docker</h6>| |
 | | <img src="https://miro.medium.com/max/1200/1*THRh4--2uAqVuBM_Iab78A.png" width="50"/> <h6>Phoenix</h6> | |
 
-<h2 align="center">Artigos e Lives</h1>
+<h2 align="left">Artigos e Lives</h1>
 
 :books: [Live sobre README](https://www.youtube.com/watch?v=2A_ebBA3jzM&t=32s)
 
