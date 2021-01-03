@@ -29,8 +29,6 @@
 | <img src="https://i1.wp.com/blog.logrocket.com/wp-content/uploads/2019/08/accessing-properties-globally-vue-js-prototypes.jpeg?fit=730%2C489&ssl=1" width="50" /> <h6>Vue</h6> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2gUrQkVjUim_GCHblX2XpG1WS9aXpbGCANg&usqp=CAU" width="50"/> <h6>Elixir</h6>| <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" width="50"/> <h6>Docker</h6>| |
 | | <img src="https://miro.medium.com/max/1200/1*THRh4--2uAqVuBM_Iab78A.png" width="50"/> <h6>Phoenix</h6> | |
 
-![4](https://user-images.githubusercontent.com/46378210/93839017-fa531e80-fc61-11ea-993a-cd8a4e8c79f6.png)
-
 <h2 align="center">Artigos e Lives</h1>
 
 :books: [Live sobre README](https://www.youtube.com/watch?v=2A_ebBA3jzM&t=32s)
