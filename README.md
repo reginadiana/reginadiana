@@ -11,6 +11,16 @@
 </a>
 </p>
 
+<h2 align="left">Artigos e Lives</h1>
+
+:books: [Live sobre README](https://www.youtube.com/watch?v=2A_ebBA3jzM&t=32s)
+
+:books: [TreinaDev – Live de lançamento da 5ª turma](https://www.youtube.com/watch?v=7D_zafaq0RA&t=4351s)
+
+:books: [Como escrever um README sensacional no Github](https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509)
+
+:books: [Como ler sinais cerebrais com Mindflex e Arduino](https://dev.to/reginadiana/como-ler-sinais-cerebrais-com-mindlfex-e-arduino-1o8l)
+
 <h2 align="left">Projetos</h1>
 
 | Aplicação com deploy | Documentação |
@@ -38,13 +48,3 @@
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="50"/> <h6>React</h6> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW2To8E0k0NeOfRqgWOwPje8tHwNtQOStw2w&usqp=CAU" width="50"/> <h6>Python</h6>| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARwmNpHgG9Hl8b1jrb4tvXRhpIWod15Cu9A&usqp=CAU" width="50"/> <h6>Git/Github/Gitlab/Bitbucket</h6> | |
 | <img src="https://i1.wp.com/blog.logrocket.com/wp-content/uploads/2019/08/accessing-properties-globally-vue-js-prototypes.jpeg?fit=730%2C489&ssl=1" width="50" /> <h6>Vue</h6> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2gUrQkVjUim_GCHblX2XpG1WS9aXpbGCANg&usqp=CAU" width="50"/> <h6>Elixir</h6>| <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" width="50"/> <h6>Docker</h6>| |
 | | <img src="https://miro.medium.com/max/1200/1*THRh4--2uAqVuBM_Iab78A.png" width="50"/> <h6>Phoenix</h6> | |
-
-<h2 align="left">Artigos e Lives</h1>
-
-:books: [Live sobre README](https://www.youtube.com/watch?v=2A_ebBA3jzM&t=32s)
-
-:books: [TreinaDev – Live de lançamento da 5ª turma](https://www.youtube.com/watch?v=7D_zafaq0RA&t=4351s)
-
-:books: [Como escrever um README sensacional no Github](https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509)
-
-:books: [Como ler sinais cerebrais com Mindflex e Arduino](https://dev.to/reginadiana/como-ler-sinais-cerebrais-com-mindlfex-e-arduino-1o8l)
