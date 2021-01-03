@@ -1,4 +1,3 @@
-
 <p align="left">
 <a href="https://dianaregina.netlify.app/"><img src="https://user-images.githubusercontent.com/46378210/93837769-cfff6200-fc5d-11ea-8e5a-ebc0489b8e76.png" width="50" alt="Meu site"></a>
 </p>
@@ -45,7 +44,7 @@
  
  ## Linguagens
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginadiana)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginadiana&langs_count=3&theme=omni&exclude_repo=autonomus-cars-with-opencv)](https://github.com/reginadiana/github-readme-stats)
  
  | Frontend | Backend | Ferramentas | Eletrônica |
  | :-----: | :-----: | :-----: | :-----: |
@@ -56,4 +55,4 @@
 | <img src="https://i1.wp.com/blog.logrocket.com/wp-content/uploads/2019/08/accessing-properties-globally-vue-js-prototypes.jpeg?fit=730%2C489&ssl=1" width="50" /> <h6>Vue</h6> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2gUrQkVjUim_GCHblX2XpG1WS9aXpbGCANg&usqp=CAU" width="50"/> <h6>Elixir</h6>| <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" width="50"/> <h6>Docker</h6>| |
 | | <img src="https://miro.medium.com/max/1200/1*THRh4--2uAqVuBM_Iab78A.png" width="50"/> <h6>Phoenix</h6> | |
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=reginadiana&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=reginadiana&theme=omni&show_icons=true)
