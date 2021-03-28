@@ -15,7 +15,7 @@
 
 <h2 align="left">Articles and Lives</h1>
 
-:books: [Live abour README](https://www.youtube.com/watch?v=2A_ebBA3jzM&t=32s)
+:books: [Live about README](https://www.youtube.com/watch?v=2A_ebBA3jzM&t=32s)
 
 :books: [TreinaDev – Live to relase 5º team](https://www.youtube.com/watch?v=7D_zafaq0RA&t=4351s)
 
