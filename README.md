@@ -13,40 +13,40 @@
 </a>
 </p>
 
-<h2 align="left">Artigos e Lives</h1>
+<h2 align="left">Articles and Lives</h1>
 
-:books: [Live sobre README](https://www.youtube.com/watch?v=2A_ebBA3jzM&t=32s)
+:books: [Live abour README](https://www.youtube.com/watch?v=2A_ebBA3jzM&t=32s)
 
-:books: [TreinaDev – Live de lançamento da 5ª turma](https://www.youtube.com/watch?v=7D_zafaq0RA&t=4351s)
+:books: [TreinaDev – Live to relase 5º team](https://www.youtube.com/watch?v=7D_zafaq0RA&t=4351s)
 
-:books: [Como escrever um README sensacional no Github](https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509)
+:books: [Hot to write a nice README on Github](https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509)
 
-:books: [Como ler sinais cerebrais com Mindflex e Arduino](https://dev.to/reginadiana/como-ler-sinais-cerebrais-com-mindlfex-e-arduino-1o8l)
+:books: [How to read signals brain with Mindflex and Arduino](https://dev.to/reginadiana/como-ler-sinais-cerebrais-com-mindlfex-e-arduino-1o8l)
 
-<h2 align="left">Projetos</h1>
+<h2 align="left">Projects</h1>
 
-| Aplicação com deploy | Documentação |
+| App with deploy | Documentation |
 | :-----: | :-----: |
-| [Lista de filmes](https://list-movies.netlify.app/) | [:blue_book: Abrir](https://github.com/reginadiana/list-movies)|
-| [Lista de produtos Marisa](https://marisa-products.netlify.app/) | [:blue_book: Abrir](https://github.com/reginadiana/lista-com-filtro-marisa)|
-| [E-commerce](https://ecommercexgb.netlify.app/) | [:blue_book: Abrir](https://github.com/reginadiana/xgb)|
-| [Certificates for everyone](https://certificates-for-everyone-womakerscode.netlify.app/) | [:blue_book: Abrir](https://github.com/reginadiana/certificates-for-everyone-netlify)|
-| [Clone Rebase](https://clone-rebase.netlify.app/ ) | [:blue_book: Abrir](https://github.com/reginadiana/clone-rebase-code-is-in-our-core)|
-| [Portfólio](https://dianaregina.netlify.app/) | [:blue_book: Abrir](https://github.com/reginadiana/portfolio)|
-| [Headhunters](https://headhuntersjobs.herokuapp.com/) | [:blue_book: Abrir](https://github.com/reginadiana/plataforma-headhunters-treina-dev)|
+| [Movies list](https://list-movies.netlify.app/) | [:blue_book: Open](https://github.com/reginadiana/list-movies)|
+| [Marisa products list](https://marisa-products.netlify.app/) | [:blue_book: Open](https://github.com/reginadiana/lista-com-filtro-marisa)|
+| [Eccommerce](https://ecommercexgb.netlify.app/) | [:blue_book: Open](https://github.com/reginadiana/xgb)|
+| [Certificates for everyone](https://certificates-for-everyone-womakerscode.netlify.app/) | [:blue_book: Open](https://github.com/reginadiana/certificates-for-everyone-netlify)|
+| [Rebase Clone](https://clone-rebase.netlify.app/ ) | [:blue_book: Open](https://github.com/reginadiana/clone-rebase-code-is-in-our-core)|
+| [Portfolio](https://dianaregina.netlify.app/) | [:blue_book: Open](https://github.com/reginadiana/portfolio)|
+| [Headhunters](https://headhuntersjobs.herokuapp.com/) | [:blue_book: Open](https://github.com/reginadiana/plataforma-headhunters-treina-dev)|
   
  <p align="left">
-  <a href="https://github.com/reginadiana/projects-of-selective-process"><strong>Processos Seletivos :star: </strong></a>
+  <a href="https://github.com/reginadiana/projects-of-selective-process"><strong>Selectve Process:star: </strong></a>
   <a href="https://github.com/reginadiana/treina-dev-turma-3"><strong>TreinaDev CampusCode :star: </strong></a>
   <a href="https://github.com/reginadiana/rocketseat-projects"><strong>RocketSeat :star: </strong></a>
   <a href="https://github.com/reginadiana/womakerscode-react"><strong>Bootcamp WoMakersCode - React :star: </strong></a>
  </p>
  
- ## Linguagens
+ ## Lenguages
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginadiana&langs_count=3&theme=omni&exclude_repo=autonomus-cars-with-opencv)](https://github.com/reginadiana/github-readme-stats)
  
- | Frontend | Backend | Ferramentas | Eletrônica |
+ | Frontend | Backend | Tools | Eletronic |
  | :-----: | :-----: | :-----: | :-----: |
  | <img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" width="50"/> <h6>HTML</h6> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOvKjLkqqD7JJN9mJYv_1LBBOkd3TPGIgKQ&usqp=CAU" width="50"/> <h6>Ruby</h6>| <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="50"/> <h6>VSCode</h6>| <img src="https://cdn.instructables.com/ORIG/FK2/LBH6/JK4UJEZ1/FK2LBH6JK4UJEZ1.jpg" width="50"/> <h6>Arduino</h6>|
  | <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="50"/> <h6>CSS</h6> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSlYFIXdUvHbCnYz6RqvMjUrPHpKNVIu8UKA&usqp=CAU" width="50"/> <h6>Ruby On Rails</h6>| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="50"/> <h6>Linux</h6>| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh1edI3QJJbPzjiU2EPuhNLc_3D-Be1Hsu6Q&usqp=CAU" width="50"/> <h6>NodeMCU</h6>|
