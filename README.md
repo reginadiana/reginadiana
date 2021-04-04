@@ -34,6 +34,7 @@
 | [Rebase Clone](https://clone-rebase.netlify.app/ ) | [:blue_book: Open](https://github.com/reginadiana/clone-rebase-code-is-in-our-core)|
 | [Portfolio](https://dianaregina.netlify.app/) | [:blue_book: Open](https://github.com/reginadiana/portfolio)|
 | [Headhunters](https://headhuntersjobs.herokuapp.com/) | [:blue_book: Open](https://github.com/reginadiana/plataforma-headhunters-treina-dev)|
+| [JB Clone](https://justinbiebermusic.netlify.app/) | [:blue_book: Open](https://github.com/reginadiana/justin-bieber-website-close)| 
   
  <p align="left">
   <a href="https://github.com/reginadiana/projects-of-selective-process"><strong>Selectve Process:star: </strong></a>
