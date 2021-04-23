@@ -2,6 +2,8 @@
 <a href="https://dianaregina.netlify.app/"><img src="https://user-images.githubusercontent.com/46378210/93837769-cfff6200-fc5d-11ea-8e5a-ebc0489b8e76.png" width="50" alt="Meu site"></a>
 </p>
 
+<a href='https://www.duolingo.com/profile/DianaRegin763415'><img src="https://media.giphy.com/media/wH8aFVGkdmOjxBxR3I/giphy.gif" width="180" height="120"/></a>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=reginadiana)
 [![Github](https://img.shields.io/github/followers/reginadiana?label=Follow)](https://github.com/reginadiana)
 
