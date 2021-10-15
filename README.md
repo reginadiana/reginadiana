@@ -7,7 +7,3 @@
 ![](https://img.shields.io/static/v1?label=RUBY&message=LANGUAGE&color=yellow&style=for-the-badge&logo=Ruby)
 ![](https://img.shields.io/static/v1?label=RUBYONRAILS&message=LANGUAGE&color=yellow&style=for-the-badge&logo=RubyonRails)
 ![](https://img.shields.io/static/v1?label=ELIXIR&message=LANGUAGE&color=yellow&style=for-the-badge&logo=Elixir)
-
----
-![](https://img.shields.io/static/v1?label=INSTAGRAM&message=reginadiana_rg&color=red&style=for-the-badge&logo=Instagram)
-![](https://img.shields.io/static/v1?label=LinkedIn&message=in/diana-regina/&color=blue&style=for-the-badge&logo=LinkedIn)
