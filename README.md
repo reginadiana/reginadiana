@@ -1,7 +1,3 @@
-<p align="left">
-<a href="https://dianaregina.netlify.app/"><img src="https://user-images.githubusercontent.com/46378210/93837769-cfff6200-fc5d-11ea-8e5a-ebc0489b8e76.png" width="50" alt="Meu site"></a>
-</p>
-
 <a href='https://www.duolingo.com/profile/DianaRegin763415' target='_blank'><img src="https://media.giphy.com/media/wH8aFVGkdmOjxBxR3I/giphy.gif" width="180" height="120"/></a>
 
 <img width="120" height="120" src='https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif' />
