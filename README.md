@@ -1,6 +1,6 @@
-<a href='https://www.duolingo.com/profile/DianaRegin763415' target='_blank'><img src="https://media.giphy.com/media/wH8aFVGkdmOjxBxR3I/giphy.gif" width="180" height="120"/></a>
+<a href='https://www.duolingo.com/profile/DianaRegin763415' target='_blank'><img src="https://media.giphy.com/media/wH8aFVGkdmOjxBxR3I/giphy.gif" width="160" height="100"/></a>
 
-<img width="120" height="120" src='https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif' />
+<img width="100" height="100" src='https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif' />
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=reginadiana)
 [![Github](https://img.shields.io/github/followers/reginadiana?label=Follow)](https://github.com/reginadiana)
