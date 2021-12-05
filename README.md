@@ -29,3 +29,5 @@
 📁 [Anotações sobre Docker](https://gist.github.com/reginadiana/37f2f5cdfe43983028ec0c206fa5194a)
 
 📁 [Anotações sobre Testes no Rails](https://gist.github.com/reginadiana/14522d638f6f9abc4ead631c315b38fa)
+
+📁 [Anotações sobre Vue](https://gist.github.com/reginadiana/738c30a4671027175e7cc40746bb0b8e)
