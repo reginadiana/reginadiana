@@ -5,7 +5,7 @@
 ![](https://img.shields.io/static/v1?label=HTML&message=LANGUAGE&color=orange&style=for-the-badge&logo=HTML5)
 ![](https://img.shields.io/static/v1?label=JAVASCRIPT&message=LANGUAGE&color=yellow&style=for-the-badge&logo=JavaScript)
 ![](https://img.shields.io/static/v1?label=RUBY&message=LANGUAGE&color=yellow&style=for-the-badge&logo=Ruby)
-![](https://img.shields.io/static/v1?label=RUBYONRAILS&message=LANGUAGE&color=yellow&style=for-the-badge&logo=RubyonRails)
+![](https://img.shields.io/static/v1?label=RUBYONRAILS&message=framework&color=yellow&style=for-the-badge&logo=RubyonRails)
 ![](https://img.shields.io/static/v1?label=ELIXIR&message=LANGUAGE&color=yellow&style=for-the-badge&logo=Elixir)
 
 ### Anotações
