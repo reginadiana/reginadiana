@@ -27,11 +27,7 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=reginadiana&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginadiana&hide=TeX&layout=compact)
 
-## 🌟 Material
+[**Trello**](https://trello.com/b/0mw2hdPv/estudos) | [**Notes**](https://gist.github.com/reginadiana/4d3ab2afa9292940d06a2caf9cc4547c)
 
-📚 [Trello de Estudos](https://trello.com/b/0mw2hdPv/estudos)
 
-📚 [Anotações](https://gist.github.com/reginadiana/4d3ab2afa9292940d06a2caf9cc4547c)
-
---- 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=reginadiana.reginadiana)
