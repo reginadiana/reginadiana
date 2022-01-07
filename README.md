@@ -27,31 +27,11 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=reginadiana&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginadiana&hide=TeX&layout=compact)
 
+## 🌟 Material
+
+📚 [Trello de Estudos](https://trello.com/b/0mw2hdPv/estudos)
+
+📚 [Anotações](https://gist.github.com/reginadiana/4d3ab2afa9292940d06a2caf9cc4547c)
+
+--- 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=reginadiana.reginadiana)
-
-
-🌟 [Trello de Estudos](https://trello.com/b/0mw2hdPv/estudos) 🌟
-
-### Anotações
-
-📁 [Git](https://gist.github.com/reginadiana/d69472636beba3440a65a85cdecea839)
-
-📁 [Ruby](https://gist.github.com/reginadiana/a454ef891b19d00d519995646e2f34f9)
-
-📁 [Elixir e Phoenix](https://gist.github.com/reginadiana/a9be5229a9aaa94bc4906eba78db0664)
-
-📁 [DevTools](https://gist.github.com/reginadiana/f3602f1f2952adbef97cafcdd9248448)
-
-📁 [Jest](https://gist.github.com/reginadiana/707cce1ea35635c20ec991bf1f4e7232)
-
-📁 [HTML](https://gist.github.com/reginadiana/aa0260084603bdb2ad941637da4fff5f)
-
-📁 [CSS](https://gist.github.com/reginadiana/2427167232850685e479d16aee995cad)
-
-📁 [Player SDK Vimeo JS](https://gist.github.com/reginadiana/d716e28f9200d3b0e5559f36f1e2bbdc)
-
-📁 [Docker](https://gist.github.com/reginadiana/37f2f5cdfe43983028ec0c206fa5194a)
-
-📁 [Testes no Rails](https://gist.github.com/reginadiana/14522d638f6f9abc4ead631c315b38fa)
-
-📁 [Vue](https://gist.github.com/reginadiana/738c30a4671027175e7cc40746bb0b8e)
