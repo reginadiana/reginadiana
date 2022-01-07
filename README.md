@@ -8,6 +8,8 @@
 ![](https://img.shields.io/static/v1?label=RUBYONRAILS&message=framework&color=yellow&style=for-the-badge&logo=RubyonRails)
 ![](https://img.shields.io/static/v1?label=ELIXIR&message=LANGUAGE&color=yellow&style=for-the-badge&logo=Elixir)
 
+🌟 [Trello de Estudos](https://trello.com/b/0mw2hdPv/estudos) 🌟
+
 ### Anotações
 
 📁 [Anotações sobre Git](https://gist.github.com/reginadiana/d69472636beba3440a65a85cdecea839)
