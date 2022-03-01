@@ -8,6 +8,8 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 [![Duo Badge](https://img.shields.io/badge/-@reginadianaduo-green?style=flat-square&labelColor=white&logo=Duolingo&link=https://www.duolingo.com/profile/DianaRegina17)](https://www.duolingo.com/profile/DianaRegina17)
 [<img src="https://user-images.githubusercontent.com/46378210/150015122-b6bb3c91-7187-4310-8c21-a8894d88e838.png" width="100"/>](https://exercism.org/profiles/reginadiana)
 
+[CSS Battle](https://cssbattle.dev/player/Ag98MP3BJFRAjkw0FkMnN7CB3An2)
+
 ## ⚡ Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
