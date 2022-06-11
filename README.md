@@ -27,6 +27,30 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 ![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-red?style=flat-square&logo=rubyonrails)
 ![Elixir](https://img.shields.io/badge/-Elixir-violet?style=flat-square&logo=elixir)
 
+## 🌠 Projetos em Deploy
+
+🌟 [Portifolio](https://dianaregina.netlify.app/)
+
+🌟 [JB - Music](https://justinbiebermusic.netlify.app/)
+
+🌟 [List Movies](https://list-movies.netlify.app/)
+
+🌟 [Certificates For Everyone](https://certificates-for-everyone-womakerscode.netlify.app/)
+
+🌟 [CSS Flex Box](https://cssflexblog.netlify.app/)
+
+🌟 [Disney Plus](https://plusdisney.netlify.app)
+
+🌟 [Marisa](https://marisa-products.netlify.app/)
+
+🌟 [Rebase](https://clone-rebase.netlify.app)
+
+🌟 [Task Finisher](https://api-task-to-do.netlify.app/)
+
+🌟 [All Gifs](https://allgifs.netlify.app/)
+
+🌟 [To Do List Simpsons](https://to-do-list-simpsons.netlify.app/)
+
 ## Anotações
 
 📁 [Git](https://gist.github.com/reginadiana/d69472636beba3440a65a85cdecea839)
