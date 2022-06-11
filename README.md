@@ -49,7 +49,7 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 
 🌟 [All Gifs](https://allgifs.netlify.app/)
 
-🌟 [Todo Simpsons](https://to-do-list-simpsons.netlify.app/)
+🌟 [Todo Simpsons](https://todosimpsons.netlify.app/)
 
 ## Anotações
 
