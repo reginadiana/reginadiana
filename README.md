@@ -1,5 +1,7 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=reginadiana.reginadiana)
+
 Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Industrial pela [Fatec Santo André (SP)](http://www.fatecsantoandre.edu.br/) e tecnico em eletronica pela [ETEC Julio de Mesquita (SP)](http://www.etecjuliodemesquita.com.br/). Tenho sede de estar sempre aprendendo coisas novas, por isso nunca parei de estudar. Participei do Bootcamp de React da [Womawerscode](https://womakerscode.org/) e do Treinamento de RubyOnRails do [TreinaDev](https://treinadev.com.br/) e hoje trabalho com software na [Rebase](https://www.rebase.com.br/#/) onde participei do desenvolvimento de projetos para a Vagas.com, Videocamp e C&A.
 
 [![Linkedin Badge](https://img.shields.io/badge/-reginadiana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diana-regina/)](https://www.linkedin.com/in/diana-regina/)
@@ -73,10 +75,29 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 
 📁 [Docker](https://gist.github.com/reginadiana/37f2f5cdfe43983028ec0c206fa5194a)
 
+## 🍪 Bibliotecas e Recursos que já trabalhei 
+
+🧑‍🍳 [ant design](https://ant.design/)
+
+🧑‍🍳 [vimeo player sdk](https://developer.vimeo.com/player/sdk)
+
+🧑‍🍳 [react pdf re-render](https://react-pdf.org/)
+
+🧑‍🍳 [react-pdf](https://www.npmjs.com/package/react-pdf)
+
+🧑‍🍳 **SCORM**
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=reginadiana&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginadiana&hide=TeX&layout=compact)
 
-[**Trello**](https://trello.com/b/0mw2hdPv/estudos) | [**Notes**](https://gist.github.com/reginadiana/4d3ab2afa9292940d06a2caf9cc4547c) | [**Apresentação de formatura: React bootcamp WoMakersCode (Dia 2)**](https://www.youtube.com/watch?v=K0mvk8zctoM) | [**Como escrever e personalizar um README no Github**](https://www.youtube.com/watch?v=2A_ebBA3jzM) | [**TreinaDev – Live de lançamento da 5ª turma**](https://www.youtube.com/watch?v=7D_zafaq0RA&t=2124s)
+## 🦋 Outros
 
+🐈 [**Trello**](https://trello.com/b/0mw2hdPv/estudos) 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=reginadiana.reginadiana)
+🐈 [**Notes**](https://gist.github.com/reginadiana/4d3ab2afa9292940d06a2caf9cc4547c)
+
+🐈 [**Apresentação de formatura: React bootcamp WoMakersCode (Dia 2)**](https://www.youtube.com/watch?v=K0mvk8zctoM)
+
+🐈 [**Como escrever e personalizar um README no Github**](https://www.youtube.com/watch?v=2A_ebBA3jzM)
+
+🐈 [**TreinaDev – Live de lançamento da 5ª turma**](https://www.youtube.com/watch?v=7D_zafaq0RA&t=2124s)
