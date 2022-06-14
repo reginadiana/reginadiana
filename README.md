@@ -85,7 +85,7 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 
 🧑‍🍳 [react-pdf](https://www.npmjs.com/package/react-pdf)
 
-🧑‍🍳 **SCORM**
+🧑‍🍳 SCORM
 
 ## 🦋 Outros
 
