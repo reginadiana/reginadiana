@@ -45,8 +45,6 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 
 🌟 [Marisa](https://marisa-products.netlify.app/)
 
-🌟 [Rebase](https://clone-rebase.netlify.app)
-
 🌟 [Task Finisher](https://api-task-to-do.netlify.app/)
 
 🌟 [All Gifs](https://allgifs.netlify.app/)
