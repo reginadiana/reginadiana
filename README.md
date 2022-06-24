@@ -83,6 +83,12 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 
 🧑‍🍳 [react-pdf](https://www.npmjs.com/package/react-pdf)
 
+🧑‍🍳 [jest](https://jestjs.io/)
+
+🧑‍🍳 [vue-jest](https://v1.test-utils.vuejs.org/)
+
+🧑‍🍳 [vuelidade](https://vuelidate.js.org/)
+
 🧑‍🍳 SCORM/LMS
 
 ## 🦋 Outros
