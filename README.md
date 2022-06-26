@@ -73,7 +73,7 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 
 📁 [Docker](https://gist.github.com/reginadiana/37f2f5cdfe43983028ec0c206fa5194a)
 
-## 🍪 Bibliotecas e Recursos que já trabalhei 
+## 🍪 Bibliotecas e recursos que já trabalhei 
 
 🧑‍🍳 [ant design](https://ant.design/)
 
