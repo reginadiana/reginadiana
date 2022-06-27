@@ -28,6 +28,7 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 ![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby)
 ![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-red?style=flat-square&logo=rubyonrails)
 ![Elixir](https://img.shields.io/badge/-Elixir-violet?style=flat-square&logo=elixir)
+![Phoenix](https://img.shields.io/badge/-Phoenix-orange?style=flat-square&logo=elixir)
 
 ## 🌠 Projetos em Deploy
 
