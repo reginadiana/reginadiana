@@ -99,3 +99,5 @@ Complemento das tecnololgias =)
 🐈 [**Como escrever e personalizar um README no Github**](https://www.youtube.com/watch?v=2A_ebBA3jzM)
 
 🐈 [**TreinaDev – Live de lançamento da 5ª turma**](https://www.youtube.com/watch?v=7D_zafaq0RA&t=2124s)
+
+🐈 [**[POST] TreinaDev - Delas**](https://www.instagram.com/p/CffMA3gvrMc/)
