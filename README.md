@@ -98,6 +98,8 @@ Complemento das tecnololgias =)
 
 🐈 [**Como escrever e personalizar um README no Github**](https://www.youtube.com/watch?v=2A_ebBA3jzM)
 
+🐈 [**Como escrever um README.md sensacional no Github**](https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509)
+
 🐈 [**TreinaDev – Live de lançamento da 5ª turma**](https://www.youtube.com/watch?v=7D_zafaq0RA&t=2124s)
 
 🐈 [**[POST] TreinaDev – Live de lançamento da 5ª turma**](https://www.instagram.com/p/CGitDfqgEn1/)
