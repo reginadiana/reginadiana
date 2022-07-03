@@ -100,4 +100,6 @@ Complemento das tecnololgias =)
 
 🐈 [**TreinaDev – Live de lançamento da 5ª turma**](https://www.youtube.com/watch?v=7D_zafaq0RA&t=2124s)
 
+🐈 [**[POST] TreinaDev – Live de lançamento da 5ª turma**](https://www.instagram.com/p/CGitDfqgEn1/)
+
 🐈 [**[POST] TreinaDev - Delas**](https://www.instagram.com/p/CffMA3gvrMc/)
