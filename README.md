@@ -2,6 +2,8 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=reginadiana.reginadiana)
 
+:heart: [Acessar meu site](https://dianaregina.netlify.app/)
+
 Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Industrial pela [Fatec Santo André (SP)](http://www.fatecsantoandre.edu.br/) e tecnico em eletronica pela [ETEC Julio de Mesquita (SP)](http://www.etecjuliodemesquita.com.br/). Tenho sede de estar sempre aprendendo coisas novas, por isso nunca parei de estudar. Participei do Bootcamp de React da [Womawerscode](https://womakerscode.org/) e do Treinamento de RubyOnRails do [TreinaDev](https://treinadev.com.br/) e hoje trabalho com software na [Rebase](https://www.rebase.com.br/#/) onde participei do desenvolvimento de projetos para a Vagas.com, Videocamp e C&A.
 
 [![Linkedin Badge](https://img.shields.io/badge/-reginadiana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diana-regina/)](https://www.linkedin.com/in/diana-regina/)
@@ -35,8 +37,6 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 ![Antdesign](https://img.shields.io/badge/-Antdesign-blue?style=flat-square&logo=antdesign)
 
 ## 🌠 Projetos em Deploy
-
-🌟 [Portifolio](https://dianaregina.netlify.app/)
 
 🌟 [JB - Music](https://justinbiebermusic.netlify.app/)
 
