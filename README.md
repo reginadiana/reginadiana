@@ -40,7 +40,7 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 
 🌟 [JB - Music](https://justinbiebermusic.netlify.app/)
 
-🌟 [List Movies](https://list-movies.netlify.app/)
+🌟 [Globoplay](https://globoplay.netlify.app/)
 
 🌟 [Certificates For Everyone](https://certificates-for-everyone-womakerscode.netlify.app/)
 
