@@ -52,7 +52,7 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 
 🌟 [Task Finisher](https://api-task-to-do.netlify.app/)
 
-🌟 [All Gifs](https://allgifs.netlify.app/)
+🌟 [Giphy](https://gifsgiphy.netlify.app/)
 
 🌟 [Trello](https://taskstrello.netlify.app)
 
