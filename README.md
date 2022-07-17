@@ -78,6 +78,12 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 
 📁 [Docker](https://gist.github.com/reginadiana/37f2f5cdfe43983028ec0c206fa5194a)
 
+📁 [Portfolio de desenvolvedores e desenvolvedoras](https://gist.github.com/reginadiana/c382632431a27b04354fa2fd33d325cc)
+
+📁 [Trilha de Frontend](https://gist.github.com/reginadiana/e2c4e57f6722d2c91ef876da0e29af9e)
+
+📁 [Resumo/Anotações de Talks](https://gist.github.com/reginadiana/43bb30d318ca0f442fc3cd6873863908)
+
 ## 🍪 Outras bibliotecas e recursos que já trabalhei 
 
 Complemento das tecnololgias =)
