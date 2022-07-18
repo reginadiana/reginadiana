@@ -70,6 +70,8 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 
 📁 [React](https://gist.github.com/reginadiana/883af9e508579bff821b343094de5d80)
 
+📁 [Vue](https://gist.github.com/reginadiana/738c30a4671027175e7cc40746bb0b8e)
+
 📁 [HTML](https://gist.github.com/reginadiana/aa0260084603bdb2ad941637da4fff5f)
 
 📁 [CSS](https://gist.github.com/reginadiana/2427167232850685e479d16aee995cad)
