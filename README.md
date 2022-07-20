@@ -6,7 +6,7 @@
 
 Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Industrial pela [Fatec Santo André (SP)](http://www.fatecsantoandre.edu.br/) e tecnico em eletronica pela [ETEC Julio de Mesquita (SP)](http://www.etecjuliodemesquita.com.br/). Tenho sede de estar sempre aprendendo coisas novas, por isso nunca parei de estudar. Participei do Bootcamp de React da [Womawerscode](https://womakerscode.org/) e do Treinamento de RubyOnRails do [TreinaDev](https://treinadev.com.br/).
 
-Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há 2 anos, atuando em clientes como Vagas, Videocamp e C&A em 6 projetos em equipes com áreas diversas: desenvolvedores, designers (UX/UI), faciliadores e gerente de projetos. 
+Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há 2 anos, atuando em clientes como [Vagas.com](https://www.vagas.com.br/), [Videocamp](https://www.videocamp.com/pt) e [C&A](https://www.cea.com.br/?gclid=Cj0KCQjwz96WBhC8ARIsAATR251T1Fg_cD8zcLyxZJH6KOsz6W3tzhrj6Q7UFAnPn33H76D0UlVwjowaAjdXEALw_wcB) em 6 projetos em equipes com áreas diversas: desenvolvedores, designers (UX/UI), faciliadores e gerente de projetos. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-reginadiana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diana-regina/)](https://www.linkedin.com/in/diana-regina/)
 [![Medium Badge](https://img.shields.io/badge/-@reginadianamedium-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dianareginadr19)](https://medium.com/@dianareginadr19)
