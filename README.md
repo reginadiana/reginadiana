@@ -60,35 +60,7 @@ Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há 2 anos, at
 
 ## Anotações
 
-📁 [Git](https://gist.github.com/reginadiana/d69472636beba3440a65a85cdecea839)
-
-📁 [Ruby](https://gist.github.com/reginadiana/a454ef891b19d00d519995646e2f34f9)
-
-📁 [Elixir e Phoenix](https://gist.github.com/reginadiana/a9be5229a9aaa94bc4906eba78db0664)
-
-📁 [DevTools](https://gist.github.com/reginadiana/f3602f1f2952adbef97cafcdd9248448)
-
-📁 [Jest](https://gist.github.com/reginadiana/707cce1ea35635c20ec991bf1f4e7232)
-
-📁 [React](https://gist.github.com/reginadiana/883af9e508579bff821b343094de5d80)
-
-📁 [Vue](https://gist.github.com/reginadiana/738c30a4671027175e7cc40746bb0b8e)
-
-📁 [HTML](https://gist.github.com/reginadiana/aa0260084603bdb2ad941637da4fff5f)
-
-📁 [CSS](https://gist.github.com/reginadiana/2427167232850685e479d16aee995cad)
-
-📁 [JS](https://gist.github.com/reginadiana/066a5cb5e13530458bc3d4b6496a8fb8)
-
-📁 [Player SDK Vimeo JS](https://gist.github.com/reginadiana/d716e28f9200d3b0e5559f36f1e2bbdc)
-
-📁 [Docker](https://gist.github.com/reginadiana/37f2f5cdfe43983028ec0c206fa5194a)
-
-📁 [Portfolio de desenvolvedores e desenvolvedoras](https://gist.github.com/reginadiana/c382632431a27b04354fa2fd33d325cc)
-
-📁 [Trilha de Frontend](https://gist.github.com/reginadiana/e2c4e57f6722d2c91ef876da0e29af9e)
-
-📁 [Resumo/Anotações de Talks](https://gist.github.com/reginadiana/43bb30d318ca0f442fc3cd6873863908)
+📁 [Guia de anotações](https://gist.github.com/reginadiana/4d3ab2afa9292940d06a2caf9cc4547c)
 
 ## 🍪 Outras bibliotecas e recursos que já trabalhei 
 
