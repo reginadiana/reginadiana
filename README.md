@@ -57,6 +57,8 @@ Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há 2 anos, at
 
 🌟 [Trello](https://taskstrello.netlify.app)
 
+:books: [Lista de todos os projetos](https://gist.github.com/reginadiana/6dd8546ed1445c590ed5a10aebb69ddc)
+
 ## Anotações
 
 📁 [Guia de anotações](https://gist.github.com/reginadiana/4d3ab2afa9292940d06a2caf9cc4547c)
