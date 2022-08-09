@@ -49,9 +49,7 @@ Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há 2 anos, at
 
 🌟 [CSS Flex Box](https://cssflexblog.netlify.app/)
 
-🌟 [Disney Plus](https://plusdisney.netlify.app)
-
-🌟 [Marisa](https://marisa-products.netlify.app/)
+🌟 [Marisa](https://marisastore.netlify.app/)
 
 🌟 [Task Finisher](https://api-task-to-do.netlify.app/)
 
