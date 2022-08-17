@@ -56,7 +56,7 @@ Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há 2 anos, at
 
 :books: [**Lista de todos os projetos**](https://gist.github.com/reginadiana/6dd8546ed1445c590ed5a10aebb69ddc)
 
-## :computer: Plataforma de Exercicios 
+## :computer: Plataformas de Exercicios 
 
 :video_game: [CSS Battle](https://cssbattle.dev/player/Ag98MP3BJFRAjkw0FkMnN7CB3An2)
 
