@@ -12,9 +12,6 @@ Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há 2 anos, at
 [![Medium Badge](https://img.shields.io/badge/-@reginadianamedium-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dianareginadr19)](https://medium.com/@dianareginadr19)
 [![Gmail Badge](https://img.shields.io/badge/-dianareginadr19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dianareginadr19@gmail.com)](mailto:dianareginadr19@gmail.com)
 [![Duo Badge](https://img.shields.io/badge/-@reginadianaduo-green?style=flat-square&labelColor=white&logo=Duolingo&link=https://www.duolingo.com/profile/DianaRegina17)](https://www.duolingo.com/profile/DianaRegina17)
-[<img src="https://user-images.githubusercontent.com/46378210/150015122-b6bb3c91-7187-4310-8c21-a8894d88e838.png" width="100"/>](https://exercism.org/profiles/reginadiana)
-
-[CSS Battle](https://cssbattle.dev/player/Ag98MP3BJFRAjkw0FkMnN7CB3An2)
 
 ## ⚡ Tecnologias
 
@@ -58,6 +55,14 @@ Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há 2 anos, at
 🌟 [Trello](https://taskstrello.netlify.app)
 
 :books: [**Lista de todos os projetos**](https://gist.github.com/reginadiana/6dd8546ed1445c590ed5a10aebb69ddc)
+
+## :computer: Plataforma de Exercicios 
+
+:video_game: [CSS Battle](https://cssbattle.dev/player/Ag98MP3BJFRAjkw0FkMnN7CB3An2)
+
+:video_game: [Hackerrank](https://www.hackerrank.com/dianaregina22?hr_r=1)
+
+:video_game: [Exercism](https://exercism.org/profiles/reginadiana)
 
 ## Anotações
 
