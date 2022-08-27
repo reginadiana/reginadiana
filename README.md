@@ -2,9 +2,9 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=reginadiana.reginadiana)
 
-**:warning: Aplicações fora do ar por periodo indeterminado**
+**:warning: Algumas aplicações podem estar fora do ar por periodo inderterminado**
 
-:heart: [Acessar meu site](https://dianaregina.netlify.app/)
+:heart: [Acessar meu site](https://dianareginadr.netlify.app/)
 
 Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Industrial pela [Fatec Santo André (SP)](http://www.fatecsantoandre.edu.br/) e tecnico em eletronica pela [ETEC Julio de Mesquita (SP)](http://www.etecjuliodemesquita.com.br/). Tenho sede de estar sempre aprendendo coisas novas, por isso nunca parei de estudar. Participei do Bootcamp de React da [Womawerscode](https://womakerscode.org/) e do Treinamento de RubyOnRails do [TreinaDev](https://treinadev.com.br/).
 
