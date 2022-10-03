@@ -36,24 +36,6 @@ Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há mais de 2 
 ![Vimeo](https://img.shields.io/badge/-Vimeo-lightblue?style=flat-square&logo=vimeo)
 ![Antdesign](https://img.shields.io/badge/-Antdesign-blue?style=flat-square&logo=antdesign)
 
-## 🌠 Projetos em Deploy
-
-🌟 [JB - Music](https://justinbiebermusic.netlify.app/)
-
-🌟 [Globoplay](https://globoplay.netlify.app/)
-
-🌟 [Certificates For Everyone](https://certificates-for-everyone-womakerscode.netlify.app/)
-
-🌟 [CSS Flex Box](https://cssflexblog.netlify.app/)
-
-🌟 [Marisa](https://marisastore.netlify.app/)
-
-🌟 [Task Finisher](https://api-task-to-do.netlify.app/)
-
-🌟 [Giphy](https://gifsgiphy.netlify.app/)
-
-🌟 [Trello](https://taskstrello.netlify.app)
-
 :books: [**Descrição da organização deste repo**](https://gist.github.com/reginadiana/6dd8546ed1445c590ed5a10aebb69ddc)
 
 ## :computer: Plataformas de Exercicios 
