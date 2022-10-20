@@ -46,6 +46,8 @@ Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há mais de 2 
 
 :video_game: [Exercism](https://exercism.org/profiles/reginadiana)
 
+:video_game: [Frontend Mentor](https://www.frontendmentor.io/home)
+
 ## Anotações
 
 📁 [Guia de anotações](https://gist.github.com/reginadiana/4d3ab2afa9292940d06a2caf9cc4547c)
