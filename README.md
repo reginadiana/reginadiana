@@ -36,8 +36,6 @@ Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há mais de 2 
 ![Vimeo](https://img.shields.io/badge/-Vimeo-lightblue?style=flat-square&logo=vimeo)
 ![Antdesign](https://img.shields.io/badge/-Antdesign-blue?style=flat-square&logo=antdesign)
 
-:books: [**Descrição da organização deste repo**](https://gist.github.com/reginadiana/6dd8546ed1445c590ed5a10aebb69ddc)
-
 ## :computer: Plataformas de Exercicios 
 
 :video_game: [CSS Battle](https://cssbattle.dev/player/Ag98MP3BJFRAjkw0FkMnN7CB3An2)
