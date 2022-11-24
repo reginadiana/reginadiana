@@ -77,3 +77,5 @@ Complemento das tecnololgias =)
 🐈 [**[POST] TreinaDev – Live de lançamento da 5ª turma**](https://www.instagram.com/p/CGitDfqgEn1/)
 
 🐈 [**[POST] TreinaDev - Delas**](https://www.instagram.com/p/CffMA3gvrMc/)
+
+🐈 [**[POST] TreinaDev - Delas - Visita Tecnica**](https://www.instagram.com/p/ClPI0KsAdbw/)
