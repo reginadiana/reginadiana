@@ -36,20 +36,6 @@ Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há mais de 2 
 ![Vimeo](https://img.shields.io/badge/-Vimeo-lightblue?style=flat-square&logo=vimeo)
 ![Antdesign](https://img.shields.io/badge/-Antdesign-blue?style=flat-square&logo=antdesign)
 
-## :computer: Plataformas de Exercicios 
-
-:video_game: [CSS Battle](https://cssbattle.dev/player/Ag98MP3BJFRAjkw0FkMnN7CB3An2)
-
-:video_game: [Hackerrank](https://www.hackerrank.com/dianaregina22?hr_r=1)
-
-:video_game: [Exercism](https://exercism.org/profiles/reginadiana)
-
-:video_game: [Frontend Mentor](https://www.frontendmentor.io/home)
-
-## Anotações
-
-📁 [Guia de anotações](https://gist.github.com/reginadiana/4d3ab2afa9292940d06a2caf9cc4547c)
-
 ## 🍪 Outras bibliotecas e recursos que já trabalhei 
 
 Complemento das tecnololgias =)
@@ -63,6 +49,20 @@ Complemento das tecnololgias =)
 🧑‍🍳 [vuelidade](https://vuelidate.js.org/)
 
 🧑‍🍳 SCORM/LMS
+
+## :computer: Plano de estudos 2023
+
+📓: [Frontend]([https://cssbattle.dev/player/Ag98MP3BJFRAjkw0FkMnN7CB3An2](https://trello.com/c/Shq0O2iP/4-frontend))
+
+📓: [Backend]([https://www.hackerrank.com/dianaregina22?hr_r=1](https://trello.com/c/RRIZeva7/3-backend))
+
+📓: [DevOps]([https://exercism.org/profiles/reginadiana](https://trello.com/c/UhMPZdXB/1-devops))
+
+📓: [Agile]([https://www.frontendmentor.io/home](https://trello.com/c/omHu1LRr/2-%C3%A1gil))
+
+## Anotações
+
+📁 [Guia de anotações](https://gist.github.com/reginadiana/4d3ab2afa9292940d06a2caf9cc4547c)
 
 ## 🦋 Outros
 
