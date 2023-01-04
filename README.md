@@ -52,13 +52,13 @@ Complemento das tecnololgias =)
 
 ## ☕ Plano de estudos 2023
 
-📓 [Frontend]([https://cssbattle.dev/player/Ag98MP3BJFRAjkw0FkMnN7CB3An2](https://trello.com/c/Shq0O2iP/4-frontend))
+📓 [**Frontend**](https://trello.com/c/Shq0O2iP/4-frontend)
 
-📓 [Backend]([https://www.hackerrank.com/dianaregina22?hr_r=1](https://trello.com/c/RRIZeva7/3-backend))
+📓 [**Backend**](https://trello.com/c/RRIZeva7/3-backend)
 
-📓 [DevOps]([https://exercism.org/profiles/reginadiana](https://trello.com/c/UhMPZdXB/1-devops))
+📓 [**DevOps**](https://trello.com/c/UhMPZdXB/1-devops)
 
-📓 [Agile]([https://www.frontendmentor.io/home](https://trello.com/c/omHu1LRr/2-%C3%A1gil))
+📓 [**Agile**](https://trello.com/c/omHu1LRr/2-%C3%A1gil)
 
 ## Anotações
 
