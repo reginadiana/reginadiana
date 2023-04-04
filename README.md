@@ -11,7 +11,7 @@ Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há 2 anos e m
 [![Linkedin Badge](https://img.shields.io/badge/-reginadiana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diana-regina/)](https://www.linkedin.com/in/diana-regina/)
 [![Medium Badge](https://img.shields.io/badge/-@reginadianamedium-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dianareginadr19)](https://medium.com/@dianareginadr19)
 [![Gmail Badge](https://img.shields.io/badge/-dianareginadr19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dianareginadr19@gmail.com)](mailto:dianareginadr19@gmail.com)
-[![Duo Badge](https://img.shields.io/badge/-@reginadianaduo-green?style=flat-square&labelColor=white&logo=Duolingo&link=https://www.duolingo.com/profile/DianaRegina17)](https://www.duolingo.com/profile/DianaRegina17)
+[![Duo Badge](https://img.shields.io/badge/-@reginadianaduo-green?style=flat-square&labelColor=white&logo=Duolingo&link=https://www.duolingo.com/profile/reginadianasilva)](https://www.duolingo.com/profile/reginadianasilva)
 
 ## ⚡ Tecnologias
 
