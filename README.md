@@ -66,7 +66,7 @@ Complemento das tecnololgias =)
 
 ## 🦋 Outros
 
-🐈 [**[Live] Apresentação de formatura: React bootcamp WoMakersCode (Dia 2)**](https://www.youtube.com/watch?v=K0mvk8zctoM)
+🐈 [**[LIVE] Apresentação de formatura: React bootcamp WoMakersCode (Dia 2)**](https://www.youtube.com/watch?v=K0mvk8zctoM)
 
 🐈 [**[LIVE] Como escrever e personalizar um README no Github**](https://www.youtube.com/watch?v=2A_ebBA3jzM)
 
