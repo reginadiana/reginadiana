@@ -10,8 +10,6 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=reginadiana.reginadiana)
 
-:heart: [Acessar meu site](https://dianareginadr.netlify.app/)
-
 Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Industrial pela [Fatec Santo André (SP)](http://www.fatecsantoandre.edu.br/) e tecnico em eletronica pela [ETEC Julio de Mesquita (SP)](http://www.etecjuliodemesquita.com.br/). Tenho sede de estar sempre aprendendo coisas novas, por isso nunca parei de estudar. Participei do Bootcamp de React da [Womawerscode](https://womakerscode.org/), Treinamento de RubyOnRails do [TreinaDev](https://treinadev.com.br/) e hoje participo do treinamento com [formação em cloud da dataRain](https://girlsincloud.datarain.com.br/) com apoio da comunidade Womakerscode e AWS. 
 
 Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há 3 anos, atuando em clientes como [Vagas.com](https://www.vagas.com.br/), [Videocamp](https://www.videocamp.com/pt), [C&A](https://www.cea.com.br/?gclid=Cj0KCQjwz96WBhC8ARIsAATR251T1Fg_cD8zcLyxZJH6KOsz6W3tzhrj6Q7UFAnPn33H76D0UlVwjowaAjdXEALw_wcB), [Banco BV](https://www.bv.com.br) e [Finbits](https://www.finbits.com.br/) em 8 projetos em equipes com áreas diversas: desenvolvedores, designers (UX/UI), faciliadores e PO/PM. 
