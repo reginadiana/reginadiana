@@ -6,11 +6,17 @@ Sou Diana Regina, mas as pessoas me chamam de Di, me formei em Mecatronica Indus
 
 Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há 3 anos, atuando em clientes como [Vagas.com](https://www.vagas.com.br/), [Videocamp](https://www.videocamp.com/pt), [C&A](https://www.cea.com.br/?gclid=Cj0KCQjwz96WBhC8ARIsAATR251T1Fg_cD8zcLyxZJH6KOsz6W3tzhrj6Q7UFAnPn33H76D0UlVwjowaAjdXEALw_wcB), [Banco BV](https://www.bv.com.br) e [Finbits](https://www.finbits.com.br/) em 8 projetos em equipes com áreas diversas: desenvolvedores, designers (UX/UI), faciliadores e PO/PM. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-reginadiana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diana-regina/)](https://www.linkedin.com/in/diana-regina/)
-[![Medium Badge](https://img.shields.io/badge/-@reginadianamedium-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dianareginadr19)](https://medium.com/@dianareginadr19)
-[![Gmail Badge](https://img.shields.io/badge/-dianareginadr19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dianareginadr19@gmail.com)](mailto:dianareginadr19@gmail.com)
-[![Duo Badge](https://img.shields.io/badge/-@reginadianaduo-green?style=flat-square&labelColor=white&logo=Duolingo&link=https://www.duolingo.com/profile/reginadianasilva)](https://www.duolingo.com/profile/reginadianasilva)
+[![Linkedin Badge](https://img.shields.io/badge/-reginadiana-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diana-regina/)](https://www.linkedin.com/in/diana-regina/)
+[![Medium Badge](https://img.shields.io/badge/-@reginadianamedium-black?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@dianareginadr19)](https://medium.com/@dianareginadr19)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/reginadiana)
+[![Gmail Badge](https://img.shields.io/badge/-dianareginadr19@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dianareginadr19@gmail.com)](mailto:dianareginadr19@gmail.com)
+[![Duo Badge](https://img.shields.io/badge/-@reginadianaduo-green?style=for-the-badge&labelColor=white&logo=Duolingo&link=https://www.duolingo.com/profile/reginadianasilva)](https://www.duolingo.com/profile/reginadianasilva)
+
+## ⚡ Perfil em plataformas de código
 [![exercism Badge](https://img.shields.io/badge/-reginadiana-violet?style=flat-square&logo=exercism&logoColor=white&link=https://exercism.org/profiles/reginadiana)](https://exercism.org/profiles/reginadiana)
+[![css Badge](https://img.shields.io/badge/-reginadiana-violet?style=flat-square&logo=css&logoColor=white&link=https://cssbattle.dev/player/dianaregina)](https://cssbattle.dev/player/dianaregina)
+
+https://cssbattle.dev/player/dianaregina
 
 ## ⚡ Tecnologias
 
