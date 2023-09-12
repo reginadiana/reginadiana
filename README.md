@@ -1,11 +1,3 @@
-```mermaid
-  graph TD;
-      Eat-->Repeat;
-      Eat-->Sleep;
-      Repeat-->Code;
-      Sleep-->Code;
-```
-
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=reginadiana.reginadiana)
