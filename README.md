@@ -16,52 +16,35 @@ Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há 3 anos, at
 [![exercism Badge](https://img.shields.io/badge/-exercism-violet?style=for-the-badge&logo=exercism&logoColor=white&link=https://exercism.org/profiles/reginadiana)](https://exercism.org/profiles/reginadiana)
 [![css Badge](https://img.shields.io/badge/-cssbattle-violet?style=for-the-badge&logo=css&logoColor=white&link=https://cssbattle.dev/player/dianaregina)](https://cssbattle.dev/player/dianaregina)
 
-## ⚡ Tecnologias
+## 💜 skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![React Router](https://img.shields.io/badge/-React%20Router-black?style=for-the-badge&logo=react-router)
-![VUEJS](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vue.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-lightyellow?style=for-the-badge&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-lightblue?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![React Router](https://img.shields.io/badge/-React%20Router-orange?style=for-the-badge&logo=react-router)
+![VUEJS](https://img.shields.io/badge/-Vue-lightgreen?style=for-the-badge&logo=vue.js)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-orange?style=for-the-badge&logo=css3)
+![Jest](https://img.shields.io/badge/-Jest-red?style=for-the-badge&logo=jest)
+![Vimeo](https://img.shields.io/badge/-Vimeo-blue?style=for-the-badge&logo=vimeo)
+![Antdesign](https://img.shields.io/badge/-Antdesign-blue?style=for-the-badge&logo=antdesign)
+![Material-UI](https://img.shields.io/badge/-MUI-lightblue?style=for-the-badge&logo=mui)
+
+### Backend
+![Ruby](https://img.shields.io/badge/-Ruby-red?style=for-the-badge&logo=ruby)
+![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-red?style=for-the-badge&logo=rubyonrails)
+![Elixir](https://img.shields.io/badge/-Elixir-violet?style=for-the-badge&logo=elixir)
+![Phoenix](https://img.shields.io/badge/-Phoenix-orange?style=for-the-badge&logo=elixir)
+
+### Ferramentas e Cloud
+![Docker](https://img.shields.io/badge/-Docker-lightblue?style=for-the-badge&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket)
-![Ruby](https://img.shields.io/badge/-Ruby-red?style=for-the-badge&logo=ruby)
-![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-red?style=for-the-badge&logo=rubyonrails)
-![Elixir](https://img.shields.io/badge/-Elixir-violet?style=for-the-badge&logo=elixir)
-![Phoenix](https://img.shields.io/badge/-Phoenix-orange?style=for-the-badge&logo=elixir)
-![Jest](https://img.shields.io/badge/-Jest-red?style=for-the-badge&logo=jest)
-![Vimeo](https://img.shields.io/badge/-Vimeo-lightblue?style=for-the-badge&logo=vimeo)
-![Antdesign](https://img.shields.io/badge/-Antdesign-blue?style=for-the-badge&logo=antdesign)
-
-## 🍪 Outras bibliotecas e recursos que já trabalhei 
-
-Complemento das tecnololgias =)
-
-🧑‍🍳 [react pdf re-render](https://react-pdf.org/)
-
-🧑‍🍳 [react-pdf](https://www.npmjs.com/package/react-pdf)
-
-🧑‍🍳 [vue-jest](https://v1.test-utils.vuejs.org/)
-
-🧑‍🍳 [vuelidade](https://vuelidate.js.org/)
-
-🧑‍🍳 SCORM/LMS
-
-## ☕ Plano de estudos 2023
-
-📓 [**Frontend**](https://trello.com/c/Shq0O2iP/4-frontend)
-
-📓 [**Backend**](https://trello.com/c/RRIZeva7/3-backend)
-
-📓 [**DevOps**](https://trello.com/c/UhMPZdXB/1-devops)
-
-📓 [**Agile**](https://trello.com/c/omHu1LRr/2-%C3%A1gil)
 
 ## Anotações
 
