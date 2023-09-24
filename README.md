@@ -13,33 +13,31 @@ Trabalho com _software_ na [Rebase](https://www.rebase.com.br/#/) há 3 anos, at
 [![Duo Badge](https://img.shields.io/badge/-duolingo-green?style=for-the-badge&labelColor=white&logo=Duolingo&link=https://www.duolingo.com/profile/reginadianasilva)](https://www.duolingo.com/profile/reginadianasilva)
 
 ## ⚡ Perfil em plataformas de código
-[![exercism Badge](https://img.shields.io/badge/-reginadiana-violet?style=flat-square&logo=exercism&logoColor=white&link=https://exercism.org/profiles/reginadiana)](https://exercism.org/profiles/reginadiana)
-[![css Badge](https://img.shields.io/badge/-reginadiana-violet?style=flat-square&logo=css&logoColor=white&link=https://cssbattle.dev/player/dianaregina)](https://cssbattle.dev/player/dianaregina)
-
-https://cssbattle.dev/player/dianaregina
+[![exercism Badge](https://img.shields.io/badge/-exercism-violet?style=for-the-badge&logo=exercism&logoColor=white&link=https://exercism.org/profiles/reginadiana)](https://exercism.org/profiles/reginadiana)
+[![css Badge](https://img.shields.io/badge/-cssbattle-violet?style=for-the-badge&logo=css&logoColor=white&link=https://cssbattle.dev/player/dianaregina)](https://cssbattle.dev/player/dianaregina)
 
 ## ⚡ Tecnologias
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat-square&logo=react-router)
-![VUEJS](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby)
-![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-red?style=flat-square&logo=rubyonrails)
-![Elixir](https://img.shields.io/badge/-Elixir-violet?style=flat-square&logo=elixir)
-![Phoenix](https://img.shields.io/badge/-Phoenix-orange?style=flat-square&logo=elixir)
-![Jest](https://img.shields.io/badge/-Jest-red?style=flat-square&logo=jest)
-![Vimeo](https://img.shields.io/badge/-Vimeo-lightblue?style=flat-square&logo=vimeo)
-![Antdesign](https://img.shields.io/badge/-Antdesign-blue?style=flat-square&logo=antdesign)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![React Router](https://img.shields.io/badge/-React%20Router-black?style=for-the-badge&logo=react-router)
+![VUEJS](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vue.js)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket)
+![Ruby](https://img.shields.io/badge/-Ruby-red?style=for-the-badge&logo=ruby)
+![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-red?style=for-the-badge&logo=rubyonrails)
+![Elixir](https://img.shields.io/badge/-Elixir-violet?style=for-the-badge&logo=elixir)
+![Phoenix](https://img.shields.io/badge/-Phoenix-orange?style=for-the-badge&logo=elixir)
+![Jest](https://img.shields.io/badge/-Jest-red?style=for-the-badge&logo=jest)
+![Vimeo](https://img.shields.io/badge/-Vimeo-lightblue?style=for-the-badge&logo=vimeo)
+![Antdesign](https://img.shields.io/badge/-Antdesign-blue?style=for-the-badge&logo=antdesign)
 
 ## 🍪 Outras bibliotecas e recursos que já trabalhei 
 
