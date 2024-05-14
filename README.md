@@ -12,7 +12,7 @@
 [![exercism Badge](https://img.shields.io/badge/-exercism-violet?style=for-the-badge&logo=exercism&logoColor=white&link=https://exercism.org/profiles/reginadiana)](https://exercism.org/profiles/reginadiana)
 [![css Badge](https://img.shields.io/badge/-cssbattle-violet?style=for-the-badge&logo=css&logoColor=white&link=https://cssbattle.dev/player/dianaregina)](https://cssbattle.dev/player/dianaregina)
 
-## 💜 skills
+## 💜 hard skills
 
 ### Frontend
 
