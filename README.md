@@ -46,6 +46,8 @@
 
 📁 [Minhas anotações](https://gist.github.com/reginadiana/4d3ab2afa9292940d06a2caf9cc4547c)
 
+📁 [Minhas anotações no Notion](https://stormy-rodent-6fd.notion.site/Getting-Started-1517754124b1487d984b8b1b158d347c)
+
 ## 🦋 Outros
 
 🐈 [**[LIVE] Apresentação de formatura: React bootcamp WoMakersCode (Dia 2)**](https://www.youtube.com/watch?v=K0mvk8zctoM)
